@@ -1,25 +1,9 @@
 
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
+
 import os
 import openai
 
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("#")
 
 start_sequence = "START:"
 restart_sequence = "RESTART:"
